@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ludo Play</string>
+    <string name="offline_title">No Internet Connection</string>
+    <string name="offline_subtitle">Connect once to load Ludo Play. After loading, you can play offline anytime.</string>
+    <string name="action_retry">Retry</string>
+    <string name="cd_offline_icon">Offline status icon</string>
+</resources>

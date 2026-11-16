@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Play",
+  "description": "Fullscreen offline-capable Ludo board game app powered by my-game-ludo.pages.dev.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
